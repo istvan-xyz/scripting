@@ -29,3 +29,11 @@ https://www.richardhyde.net/2019/04/16/New-Reminder-Using-JXA.html
 https://github.com/moritzregnier/create-reminder-from-mail-mac/blob/master/EN.applescript
 
 https://github.com/moritzregnier/create-reminder-from-mail-mac
+
+https://talk.automators.fm/t/mail-message-to-reminders-task-and-trello-card/13227
+
+https://logic2design.blogspot.com/2022/02/MailmessagetoRemindersItemandTrelloCard.html
+
+https://discourse.hookproductivity.com/t/is-reminders-app-linkable/2397/5
+
+https://colterreed.com/linking-to-mail-messages/
